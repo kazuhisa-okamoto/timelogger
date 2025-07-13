@@ -1,6 +1,6 @@
 
 # timelogger
-Measure execution time tracking nesting structure and number of calls.
+Measure execution time with nesting structure and number of calls.
 
 ## Usage
 ```py
